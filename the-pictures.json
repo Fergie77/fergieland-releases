@@ -1,6 +1,6 @@
 {
-  "versionCode": 120,
-  "versionName": "1.20",
-  "apk": "https://github.com/Fergie77/fergieland-releases/releases/download/the-pictures-120/the-pictures-1.20.apk",
-  "notes": "A small update, to check updates work."
+  "versionCode": 124,
+  "versionName": "1.24",
+  "apk": "https://github.com/Fergie77/fergieland-releases/releases/download/the-pictures-124/the-pictures-1.24.apk",
+  "notes": "Fixes from a full check of the app: steadier playback controls, places kept when you go back, clearer messages, and copies from a source that answers first."
 }
