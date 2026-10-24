@@ -1,6 +1,40 @@
 {
-  "versionCode": 109,
-  "versionName": "1.9",
-  "apk": "https://github.com/Fergie77/fergieland-releases/releases/download/the-listings-109/the-listings-1.9.apk",
-  "notes": ""
+  "versionCode": 111,
+  "versionName": "1.11",
+  "apk": "https://github.com/Fergie77/fergieland-releases/releases/download/the-listings-111/the-listings-1.11.apk",
+  "notes": "Updates say what they change, before updating and once updated",
+  "changes": [
+    {
+      "versionCode": 111,
+      "versionName": "1.11",
+      "lines": [
+        "Updates say what they change, before updating and once updated"
+      ]
+    },
+    {
+      "versionCode": 109,
+      "versionName": "1.9",
+      "lines": [
+        "The remote goes to Update after checking",
+        "The loading page says when the app has been updated"
+      ]
+    },
+    {
+      "versionCode": 108,
+      "versionName": "1.8",
+      "lines": [
+        "Loading page waits for the whole guide",
+        "No duplicate status on it"
+      ]
+    },
+    {
+      "versionCode": 107,
+      "versionName": "1.7",
+      "lines": [
+        "Update prompt: say to open the app again after installing",
+        "No prompt taking the remote",
+        "Controls in Settings \u203a This app"
+      ]
+    }
+  ]
 }
