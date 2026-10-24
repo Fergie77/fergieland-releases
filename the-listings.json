@@ -1,9 +1,17 @@
 {
-  "versionCode": 111,
-  "versionName": "1.11",
-  "apk": "https://github.com/Fergie77/fergieland-releases/releases/download/the-listings-111/the-listings-1.11.apk",
-  "notes": "Updates say what they change, before updating and once updated",
+  "versionCode": 112,
+  "versionName": "1.12",
+  "apk": "https://github.com/Fergie77/fergieland-releases/releases/download/the-listings-112/the-listings-1.12.apk",
+  "notes": "Updates say what they change, before updating and once updated; Just updated from a version without the change list, it's fetched straight away and shown",
   "changes": [
+    {
+      "versionCode": 112,
+      "versionName": "1.12",
+      "lines": [
+        "Updates say what they change, before updating and once updated",
+        "Just updated from a version without the change list, it's fetched straight away and shown"
+      ]
+    },
     {
       "versionCode": 111,
       "versionName": "1.11",
