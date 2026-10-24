@@ -1,10 +1,28 @@
 {
-  "versionCode": 151,
-  "versionName": "1.51",
-  "apk": "https://github.com/Fergie77/fergieland-releases/releases/download/the-pictures-151/the-pictures-1.51.apk",
-  "sha256": "7ab6977ebd5308e1dc9484571f4738643444a1d1b904ebb15258bd1b11c345c7",
-  "notes": "The household's key sealed in the TV's keystore; Start syncing on the TV, or link by a typed code; Updates checked against their fingerprint; Plain sync errors; Custom shelves keep all their settings",
+  "versionCode": 158,
+  "versionName": "1.58",
+  "apk": "https://github.com/Fergie77/fergieland-releases/releases/download/the-pictures-158/the-pictures-1.58.apk",
+  "sha256": "da3c0908c5449f4e0552394b333e42b44a03d92df46a679b1924349d28c51584",
+  "notes": "In the player: Alexa and the TV's remote through a media session (next plays the next episode); In the player: still watching? after three episodes on their own; In the player: skip intro; In the player: night mode; In the player: the TV matched to the film's frame rate, and HDR or Dolby Vision said; In the player: the next episode opens from the address found during the credits; Cast and director pages; More like this; Coming up on Tonight; Trailers from TMDB where the sources have none, and on Tonight's big card; Real-Debrid premium shown in Your sources, and a warning in its last week; A three-step welcome on a new TV",
   "changes": [
+    {
+      "versionCode": 158,
+      "versionName": "1.58",
+      "lines": [
+        "In the player: Alexa and the TV's remote through a media session (next plays the next episode)",
+        "In the player: still watching? after three episodes on their own",
+        "In the player: skip intro",
+        "In the player: night mode",
+        "In the player: the TV matched to the film's frame rate, and HDR or Dolby Vision said",
+        "In the player: the next episode opens from the address found during the credits",
+        "Cast and director pages",
+        "More like this",
+        "Coming up on Tonight",
+        "Trailers from TMDB where the sources have none, and on Tonight's big card",
+        "Real-Debrid premium shown in Your sources, and a warning in its last week",
+        "A three-step welcome on a new TV"
+      ]
+    },
     {
       "versionCode": 151,
       "versionName": "1.51",
