@@ -1,10 +1,17 @@
 {
-  "versionCode": 114,
-  "versionName": "1.14",
-  "apk": "https://github.com/Fergie77/fergieland-releases/releases/download/the-listings-114/the-listings-1.14.apk",
-  "sha256": "300a705637afa1e7bdaaf7e27227cac28996fa6790cc534a325af1aea7c9b184",
-  "notes": "Updates are checked against their fingerprint before installing",
+  "versionCode": 115,
+  "versionName": "1.15",
+  "apk": "https://github.com/Fergie77/fergieland-releases/releases/download/the-listings-115/the-listings-1.15.apk",
+  "sha256": "2ce2f96d5be1dc6bc90c392947f606731ebf83f2ff9e87d156949e1cb4e1f9a8",
+  "notes": "The update's buttons come before its change list, which is kept to ten lines, so the remote can always reach Update",
   "changes": [
+    {
+      "versionCode": 115,
+      "versionName": "1.15",
+      "lines": [
+        "The update's buttons come before its change list, which is kept to ten lines, so the remote can always reach Update"
+      ]
+    },
     {
       "versionCode": 114,
       "versionName": "1.14",
