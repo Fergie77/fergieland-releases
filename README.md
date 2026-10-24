@@ -9,8 +9,8 @@ The Fire TV versions of **The Pictures** and **The Listings**, ready to install.
 2. Settings › My Fire TV › Developer options › **Install unknown apps**: switch it on for Downloader.
    (If Developer options isn't there: Settings › My Fire TV › About, then press OK on the name of the device seven times.)
 3. In Downloader, open the address of the app you want:
-   - The Pictures: `https://github.com/Fergie77/fergieland-releases/releases/download/the-pictures-119/the-pictures-1.19.apk`
-   - The Listings: `https://github.com/Fergie77/fergieland-releases/releases/download/the-listings-103/the-listings-1.3.apk`
+   - The Pictures: `https://github.com/Fergie77/fergieland-releases/releases/download/the-pictures-159/the-pictures-1.59.apk`
+   - The Listings: `https://github.com/Fergie77/fergieland-releases/releases/download/the-listings-115/the-listings-1.15.apk`
    (Any newer file under [Releases](https://github.com/Fergie77/fergieland-releases/releases) is fine too.)
 4. Install it, and open it.
 
