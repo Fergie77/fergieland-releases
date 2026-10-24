@@ -1,9 +1,16 @@
 {
-  "versionCode": 148,
-  "versionName": "1.48",
-  "apk": "https://github.com/Fergie77/fergieland-releases/releases/download/the-pictures-148/the-pictures-1.48.apk",
-  "notes": "No card after updating; The loading page says the new version is in",
+  "versionCode": 149,
+  "versionName": "1.49",
+  "apk": "https://github.com/Fergie77/fergieland-releases/releases/download/the-pictures-149/the-pictures-1.49.apk",
+  "notes": "Player: Play/Pause on the paused card carries straight on",
   "changes": [
+    {
+      "versionCode": 149,
+      "versionName": "1.49",
+      "lines": [
+        "Player: Play/Pause on the paused card carries straight on"
+      ]
+    },
     {
       "versionCode": 148,
       "versionName": "1.48",
