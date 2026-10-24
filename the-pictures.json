@@ -1,6 +1,128 @@
 {
-  "versionCode": 145,
-  "versionName": "1.45",
-  "apk": "https://github.com/Fergie77/fergieland-releases/releases/download/the-pictures-145/the-pictures-1.45.apk",
-  "notes": ""
+  "versionCode": 146,
+  "versionName": "1.46",
+  "apk": "https://github.com/Fergie77/fergieland-releases/releases/download/the-pictures-146/the-pictures-1.46.apk",
+  "notes": "Updates say what they change, before updating and once updated",
+  "changes": [
+    {
+      "versionCode": 146,
+      "versionName": "1.46",
+      "lines": [
+        "Updates say what they change, before updating and once updated"
+      ]
+    },
+    {
+      "versionCode": 145,
+      "versionName": "1.45",
+      "lines": [
+        "In the player: the timeline says its step, and a notice confirms a change with \u2630"
+      ]
+    },
+    {
+      "versionCode": 144,
+      "versionName": "1.44",
+      "lines": [
+        "Only long titles fade and move",
+        "Skip episode in the player",
+        "\u2630 on the timeline changes the step"
+      ]
+    },
+    {
+      "versionCode": 143,
+      "versionName": "1.43",
+      "lines": [
+        "The write-up under the posters runs in full"
+      ]
+    },
+    {
+      "versionCode": 142,
+      "versionName": "1.42",
+      "lines": [
+        "Anime shelves for films and series"
+      ]
+    },
+    {
+      "versionCode": 141,
+      "versionName": "1.41",
+      "lines": [
+        "One-line card titles that fade, and scroll with the remote on them",
+        "A gap above the posters",
+        "TMDB shelves ask several mood words, most-rated first"
+      ]
+    },
+    {
+      "versionCode": 140,
+      "versionName": "1.40",
+      "lines": [
+        "Pills and their squares one height",
+        "Heavy rules drawn inside"
+      ]
+    },
+    {
+      "versionCode": 139,
+      "versionName": "1.39",
+      "lines": [
+        "Buttons don't grow with the remote on them (it unsettled the spacing)"
+      ]
+    },
+    {
+      "versionCode": 138,
+      "versionName": "1.38",
+      "lines": [
+        "On Tonight: the lesser choices as symbols, named beneath, so the row fits"
+      ]
+    },
+    {
+      "versionCode": 137,
+      "versionName": "1.37",
+      "lines": [
+        "Shelves on Films and Series, Make your own, and TMDB for moods"
+      ]
+    },
+    {
+      "versionCode": 135,
+      "versionName": "1.35",
+      "lines": [
+        "Only copies that play on this TV, on the film page and in the player"
+      ]
+    },
+    {
+      "versionCode": 134,
+      "versionName": "1.34",
+      "lines": [
+        "Choices on Carry on watching and posters, next episodes, watched marks, list and search, player clock, subtitles, sleep timer",
+        "Fixes from trying the new features on the Fire Stick"
+      ]
+    },
+    {
+      "versionCode": 131,
+      "versionName": "1.31",
+      "lines": [
+        "The remote goes to Update after checking",
+        "The loading page says when the app has been updated"
+      ]
+    },
+    {
+      "versionCode": 130,
+      "versionName": "1.30",
+      "lines": [
+        "Fall back past a slow source",
+        "Remember slow sources across restarts"
+      ]
+    },
+    {
+      "versionCode": 129,
+      "versionName": "1.29",
+      "lines": [
+        "In the player: Speech and music levels, kept per film"
+      ]
+    },
+    {
+      "versionCode": 128,
+      "versionName": "1.28",
+      "lines": [
+        "Log whether the speech mixer is folding the soundtrack"
+      ]
+    }
+  ]
 }
