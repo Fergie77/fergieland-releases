@@ -1,9 +1,17 @@
 {
-  "versionCode": 147,
-  "versionName": "1.47",
-  "apk": "https://github.com/Fergie77/fergieland-releases/releases/download/the-pictures-147/the-pictures-1.47.apk",
-  "notes": "Updates say what they change, before updating and once updated; Just updated from a version without the change list, it's fetched straight away and shown",
+  "versionCode": 148,
+  "versionName": "1.48",
+  "apk": "https://github.com/Fergie77/fergieland-releases/releases/download/the-pictures-148/the-pictures-1.48.apk",
+  "notes": "No card after updating; The loading page says the new version is in",
   "changes": [
+    {
+      "versionCode": 148,
+      "versionName": "1.48",
+      "lines": [
+        "No card after updating",
+        "The loading page says the new version is in"
+      ]
+    },
     {
       "versionCode": 147,
       "versionName": "1.47",
