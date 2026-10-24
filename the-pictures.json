@@ -1,9 +1,21 @@
 {
-  "versionCode": 149,
-  "versionName": "1.49",
-  "apk": "https://github.com/Fergie77/fergieland-releases/releases/download/the-pictures-149/the-pictures-1.49.apk",
-  "notes": "Player: Play/Pause on the paused card carries straight on",
+  "versionCode": 151,
+  "versionName": "1.51",
+  "apk": "https://github.com/Fergie77/fergieland-releases/releases/download/the-pictures-151/the-pictures-1.51.apk",
+  "sha256": "7ab6977ebd5308e1dc9484571f4738643444a1d1b904ebb15258bd1b11c345c7",
+  "notes": "The household's key sealed in the TV's keystore; Start syncing on the TV, or link by a typed code; Updates checked against their fingerprint; Plain sync errors; Custom shelves keep all their settings",
   "changes": [
+    {
+      "versionCode": 151,
+      "versionName": "1.51",
+      "lines": [
+        "The household's key sealed in the TV's keystore",
+        "Start syncing on the TV, or link by a typed code",
+        "Updates checked against their fingerprint",
+        "Plain sync errors",
+        "Custom shelves keep all their settings"
+      ]
+    },
     {
       "versionCode": 149,
       "versionName": "1.49",
