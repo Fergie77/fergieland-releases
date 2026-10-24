@@ -1,9 +1,17 @@
 {
-  "versionCode": 146,
-  "versionName": "1.46",
-  "apk": "https://github.com/Fergie77/fergieland-releases/releases/download/the-pictures-146/the-pictures-1.46.apk",
-  "notes": "Updates say what they change, before updating and once updated",
+  "versionCode": 147,
+  "versionName": "1.47",
+  "apk": "https://github.com/Fergie77/fergieland-releases/releases/download/the-pictures-147/the-pictures-1.47.apk",
+  "notes": "Updates say what they change, before updating and once updated; Just updated from a version without the change list, it's fetched straight away and shown",
   "changes": [
+    {
+      "versionCode": 147,
+      "versionName": "1.47",
+      "lines": [
+        "Updates say what they change, before updating and once updated",
+        "Just updated from a version without the change list, it's fetched straight away and shown"
+      ]
+    },
     {
       "versionCode": 146,
       "versionName": "1.46",
@@ -115,13 +123,6 @@
       "versionName": "1.29",
       "lines": [
         "In the player: Speech and music levels, kept per film"
-      ]
-    },
-    {
-      "versionCode": 128,
-      "versionName": "1.28",
-      "lines": [
-        "Log whether the speech mixer is folding the soundtrack"
       ]
     }
   ]
