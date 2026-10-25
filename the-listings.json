@@ -3,13 +3,15 @@
   "versionName": "1.17",
   "apk": "https://github.com/Fergie77/fergieland-releases/releases/download/the-listings-117/the-listings-1.17.apk",
   "sha256": "c5073bf70e34da55a2fe136d305b003f7c202587779459d4bb850defff09cd00",
-  "notes": "Opens in 5 seconds rather than 25, and at once when reopened",
+  "notes": "Opens in 5 seconds rather than 25, and at once when reopened; Channels and the guide are fetched once a day, not every six hours; The remote's voice button types into Search",
   "changes": [
     {
       "versionCode": 117,
       "versionName": "1.17",
       "lines": [
-        "Opens in 5 seconds rather than 25, and at once when reopened"
+        "Opens in 5 seconds rather than 25, and at once when reopened",
+        "Channels and the guide are fetched once a day, not every six hours",
+        "The remote's voice button types into Search"
       ]
     },
     {
