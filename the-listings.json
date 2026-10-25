@@ -1,10 +1,18 @@
 {
-  "versionCode": 115,
-  "versionName": "1.15",
-  "apk": "https://github.com/Fergie77/fergieland-releases/releases/download/the-listings-115/the-listings-1.15.apk",
-  "sha256": "2ce2f96d5be1dc6bc90c392947f606731ebf83f2ff9e87d156949e1cb4e1f9a8",
-  "notes": "The update's buttons come before its change list, which is kept to ten lines, so the remote can always reach Update",
+  "versionCode": 116,
+  "versionName": "1.16",
+  "apk": "https://github.com/Fergie77/fergieland-releases/releases/download/the-listings-116/the-listings-1.16.apk",
+  "sha256": "09f57f700df3e249ca0c08a1976783f65a91c13d35f927d3498cd98f6d7d1e79",
+  "notes": "Channels and guide are fetched once a day, not every six hours; Text boxes on Android's EditText, so the voice button types into them",
   "changes": [
+    {
+      "versionCode": 116,
+      "versionName": "1.16",
+      "lines": [
+        "Channels and guide are fetched once a day, not every six hours",
+        "Text boxes on Android's EditText, so the voice button types into them"
+      ]
+    },
     {
       "versionCode": 115,
       "versionName": "1.15",
